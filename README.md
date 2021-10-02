@@ -3,7 +3,7 @@
 
 🌱 I’m learning forecasting techniques and data analysis as part of a STEM-focused Finance Concentration. 
 
-🤔 My goal is to keep learning! And to gain perspective, find meaning, and be grateful for the opportunity even as I am humbled along the way.
+🤔 My goal is to keep learning! And to gain perspective, find meaning, and be grateful for the opportunity, even as I am humbled along the way.
 
 <!--
 **lgheit/lgheit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
